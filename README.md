@@ -1,0 +1,4 @@
+qt
+==
+
+some qt programs
